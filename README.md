@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate frontend developer from India. I'm also passionate about DevOps and OpenSource and trying to learn and experience as much as possible.</h3>
+
+[![An image of @c0dewordsky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c0dewordsky)](https://holopin.io/@c0dewordsky)
+
 <center><img align="centre" alt="coder gif" width="600"  src="https://raw.githubusercontent.com/ratul16/ratul16/master/img/cover.gif"></center>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dewordsky&label=Profile%20views&color=0e75b6&style=flat" alt="c0dewordsky" /> </p>
