@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">A passionate frontend developer from India. I'm also passionate about DevOps and OpenSource and trying to learn and experience as much as possible.</h3>
+<h3 align="center">The DevOps Guy. System administrator @xFusionCorp. Experienced in Linux, Docker, Servers and other DevOps tools. Prefered programming languages are  Java, Go, JavaScript. Getting my hands dirty on Frontend as well as clearing concepts on backend.</h3>
 
 [![An image of @c0dewordsky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c0dewordsky)](https://holopin.io/@c0dewordsky)
 
