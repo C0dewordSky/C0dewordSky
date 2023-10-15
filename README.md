@@ -14,11 +14,11 @@
 
 <p align="center"> <a href="https://twitter.com/codewordsky" target="blank"><img src="https://img.shields.io/twitter/follow/codewordsky?logo=twitter&style=for-the-badge" alt="codewordsky" /></a> </p>
 
-- 🔭 I’m currently working on **developing my coding skills and building projects.**
+- 🔭 **The DevOps Guy**
+  
+- 👯Currently working on **developing my Development skills and building projects.**
 
-- 👯 I’m looking to collaborate on **full stack projects.**
-
-- 🤝 I’m looking for help with **OpenSource contributions.**
+- 🤝 I’m looking for collaborating with **Like minded People who aims to grow and learn**
 
 - 👨‍💻 All of my projects are available at [github.com/C0dewordSky](github.com/C0dewordSky)
 
